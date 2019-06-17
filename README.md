@@ -9,7 +9,7 @@ SQL file name: queries.pdf
 Analyzed of data with SQL
 
 ### Files used
-queries.pdf (sql)
+queries.pdf (sql view)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
